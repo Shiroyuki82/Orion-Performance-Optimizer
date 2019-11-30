@@ -5,8 +5,8 @@ Orion Tweak is a mod that are created for some people who want to increase their
 No settings/customization and rest 'headache' - all parameters are individual for EVERY device depending on it's hardware/software characteristics, All parameters are very balanced.
 
 Detailed Tech Introductory :
-Very wide-range settings of OS and Linux kernel are configured, still being cross-platform utility, maximally compatible with all devices. This means that it doesn't have any dirty hacks/hardcore and 3rd part binaries (except busybox) & config files. FDE applies configurations depending on It's hardware and software, so that in the end every device is configured individually.
-New unique method of execution, System partitions are remounted RW only once while installation. This means high speed (the worst RAM will have at least ~500MB/s of I/O speed), no power consumption (no NAND memory I/O occurs) and security (system partitions are in read-only state). Also new-gen FDE is synced with OS boot process - so tweaks will be applied in correct time. All system partitions are trimmed and checked for errors after every OS boot with ORION onboard.
+Very wide-range settings of OS and Linux kernel are configured, still being cross-platform utility, maximally compatible with all devices. This means that it doesn't have any dirty hacks/hardcore and 3rd part binaries (except busybox) & config files. Orion applies configurations depending on It's hardware and software, so that in the end every device is configured individually.
+New unique method of execution, System partitions are remounted RW only once while installation. This means high speed (the worst RAM will have at least ~500MB/s of I/O speed), no power consumption (no NAND memory I/O occurs) and security (system partitions are in read-only state). Also new-gen Orion is synced with OS boot process - so tweaks will be applied in correct time. All system partitions are trimmed and checked for errors after every OS boot with ORION onboard.
 
 Info : 
 This tweak was made of : Init.d, Build.prop and other files that edits Kernel parameters in real-time scenarios
