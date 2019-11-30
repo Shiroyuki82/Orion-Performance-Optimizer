@@ -89,23 +89,25 @@ Installation:
 2. Download ORION in release tab [GITHUB]
 3. Flash and Forget.
 
+--
 Credits :
 TEAMLIST
-Fly On Mod Team
-FDE.AI
-NFS Injector
-LSPEED
-Ultimate Performance
-Others that are affiliated by these teams are well credited.
+- Fly On Mod Team
+- FDE.AI
+- NFS Injector
+- LSPEED
+- Ultimate Performance
+- Others that are affiliated by these teams are well credited.
 --
-People list 
-Niko Schwickert
-Dan - Paget96
-Fera 
-Armind
-Juano
-Kikz
-Hafiz
-Leon
-Crash Override
+Credits :
+PEOPLE LIST
+- Niko Schwickert
+- Dan/Paget96
+- Fera 
+- Armind
+- Juano
+- Kikz
+- Hafiz
+- Leon
+- Crash Override
 And many more.
