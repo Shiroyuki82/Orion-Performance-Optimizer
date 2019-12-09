@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/etc/init.d/ext4_lagfix
+SHA1-Digest: 5AfM0uR4lYNodB//0R3GgcxpgM4=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 7LjhI2kUKoWfvQFHyInm+pcJigY=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: B+YeuQrgq2h7NpZQ7R5HecRtflA=
+
+Name: common/data/local.prop
+SHA1-Digest: OPqxkq9pk7xFKdsbTCtX5HOKbwM=
+
+Name: system/etc/init.d/net_buffer
+SHA1-Digest: r6J63Or02cWYaR6DhDrQhO87ofs=
+
+Name: system/xbin/haveged
+SHA1-Digest: IKCr8QQlSl3KvsEUbhT0VJCWtFg=
+
+Name: system/etc/init.d/03vacuum
+SHA1-Digest: JWcP5CSxB8lN7cSHm6jNATwT8GY=
+
+Name: module.prop
+SHA1-Digest: 4IKV+QLJTSBCM0xb9SCr9Y44Yfs=
+
+Name: system/etc/init.d/ram_manager
+SHA1-Digest: UEJq6sJBaqEzeUaj6U7vV9u+NpY=
+
+Name: system/etc/init.d/09sdcardspeedfix
+SHA1-Digest: TH0jlTqTNnPjWr/WHFMPz1mG4hI=
+
+Name: system/etc/init.d/01remount
+SHA1-Digest: M8abV5NWZhgybUFFRbOQvepOon8=
+
+Name: system/xbin/openvpn
+SHA1-Digest: YwqQVIo886fQwEyT9PooQEgZWbQ=
+
+Name: system/etc/init.d/92cleaner
+SHA1-Digest: epqgDcgx8MYE63Y2KuqEfLTNaNc=
+
+Name: system/etc/hosts
+SHA1-Digest: CMQ363qneTOUx7m9CHV64/D9Xus=
+
+Name: system/etc/init.d/S98system_tweak
+SHA1-Digest: 0a7kS/j/53cuqzdQylwE0feFoxA=
+
+Name: system/xbin/sqlite3
+SHA1-Digest: YoQEjEaKndENUzD2KCC3u51Spu8=
+
+Name: system/etc/init.d/sqlite_optimize
+SHA1-Digest: NZexNFTHqKIA3cRBRJB2SoCWHw8=
+
+Name: system/etc/init.d/S70darky_zipalign
+SHA1-Digest: EZG0hFn4wGO8fABxH0TufAsgxQo=
+
+Name: system/usr/idc/mxt224_ts_input.idc
+SHA1-Digest: OE72OifVs5Wv0iX06ys0bC6Hyso=
+
+Name: install.sh
+SHA1-Digest: 03ySRzIfqVBHqjsUVlAEBcWZcpo=
+
+Name: system/xbin/zipalign
+SHA1-Digest: pwL0NEqL/oCSjT+NiX3jh8ptQSU=
+
+Name: system/etc/init.d/98fly_engine
+SHA1-Digest: /oNF7/9mo6ApYgV/B7CylyuSlHg=
+
