@@ -1,0 +1,91 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: AxhsOF8pfBlQaCMi3FxzpTcT7+g=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: EGXT4HXGBJlOomYxiGXzoEMbMrY=
+
+Name: system/xbin/haveged
+SHA1-Digest: oKFb4lqAPVpS44A+UUnuQvQ0Wxo=
+
+Name: module.prop
+SHA1-Digest: MZFq8CwVlt97b58IgBlIHydRzd4=
+
+Name: common/system.prop
+SHA1-Digest: hcKF2kl+fogQ74AMhFK+XcObv2s=
+
+Name: system/xbin/openvpn
+SHA1-Digest: lY0VaiCH+FL17ofpD/8fpDWt2wo=
+
+Name: system/etc/init.d/S98system_tweak
+SHA1-Digest: R4Hzxzo8gfQdysXFz3VjnIt8aEc=
+
+Name: system/xbin/sqlite3
+SHA1-Digest: bVjWhleFPpE+nHMJmXkw7Avz7vg=
+
+Name: README.md
+SHA1-Digest: bhr/Q1ZpVP1ty1MFcjb/4VaOVAw=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: SyX3X/PeDY9ntN8RXeBKc888YZg=
+
+Name: system/etc/init.d/98fly_engine
+SHA1-Digest: Lh6mLtJ0kT4Sqqvbwv8zES6A++I=
+
+Name: system/etc/init.d/ext4_lagfix
+SHA1-Digest: LNIcWKysChGWpFJaHsaSYiSPbuc=
+
+Name: orion.png
+SHA1-Digest: AOfDS59pq+o1KmEzC7XhVodnj+U=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: common/data/local.prop
+SHA1-Digest: ic09JGqsOjPUUyNyLz7CPZiGjfc=
+
+Name: system/etc/init.d/net_buffer
+SHA1-Digest: k+W/czbaRH947TvQ0cr+WKANBFk=
+
+Name: system/etc/init.d/03vacuum
+SHA1-Digest: ckmrhnHcOTUTKzw5rggKyHWsWZg=
+
+Name: system/etc/init.d/ram_manager
+SHA1-Digest: BZa3jQfPK0VUZSPo+U4HbetbLkE=
+
+Name: system/etc/init.d/09sdcardspeedfix
+SHA1-Digest: RVocK0UHbZKjzfLM4v44zYfKh1g=
+
+Name: system/etc/init.d/01remount
+SHA1-Digest: VTTJz0D1lJtMb9YHENAtjWBN3ZY=
+
+Name: system/etc/init.d/92cleaner
+SHA1-Digest: w4sMiAo8KWHN2d6u11yfvclTI9E=
+
+Name: system/etc/hosts
+SHA1-Digest: QlcLhKlOvb2uZ7DEMFQObd+pz8A=
+
+Name: LICENSE
+SHA1-Digest: 3Qt35pJDtNmG6JKvS/6P2zwqHTQ=
+
+Name: system/etc/init.d/sqlite_optimize
+SHA1-Digest: /fLvZDXVmVxG9R3we63lqooK29E=
+
+Name: .gitattributes
+SHA1-Digest: VJvL32Kgn3r0mLHw8YEc77HAwV0=
+
+Name: system/etc/init.d/S70darky_zipalign
+SHA1-Digest: TC2gu8CbZ65bY/M5Wxnsprv4myA=
+
+Name: config.sh
+SHA1-Digest: IECbRRRTAB+Vqds7sI1DZDV6s4g=
+
+Name: common/service.sh
+SHA1-Digest: TOn/zXTfuf86lkAJLKXrKctujsY=
+
+Name: system/usr/idc/mxt224_ts_input.idc
+SHA1-Digest: QnFPs0xWd5Wb/CzE+NmCyIGr3d0=
+
+Name: system/xbin/zipalign
+SHA1-Digest: 8w21tncal0lmXIBgD4DfTiYM3Ro=
+
