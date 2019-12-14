@@ -6,7 +6,7 @@
 <p align="center">
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/LionSinOfPride/Orion-Performance-Optimizer/master/orion.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/LionSinOfPride/Orion-Performance-Optimizer/master/orionlogo.png"></p>
 
 Introduction: Orion Tweak is a mod that are created for some people who want to increase their phone performance, with tons of scripts and mods/tweaks. Orion managed to Improve Android System Performance, Making it fluidly smooth and Increasing overall gaming performance to phone's maximum level. also Uplifting battery life without losing performance. No settings/customization and rest 'headache' - all parameters are individual for EVERY device depending on it's hardware/software characteristics, All parameters are very balanced.
 
